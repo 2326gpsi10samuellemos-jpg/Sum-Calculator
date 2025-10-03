@@ -1,0 +1,10 @@
+C:\Users\aluno\Desktop\programas C#\somasuperiora100\somasuperiora100\bin\Debug\somasuperiora100.exe.config
+C:\Users\aluno\Desktop\programas C#\somasuperiora100\somasuperiora100\bin\Debug\somasuperiora100.exe
+C:\Users\aluno\Desktop\programas C#\somasuperiora100\somasuperiora100\bin\Debug\somasuperiora100.pdb
+C:\Users\aluno\Desktop\programas C#\somasuperiora100\somasuperiora100\obj\Debug\somasuperiora100.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\programas C#\somasuperiora100\somasuperiora100\obj\Debug\somasuperiora100.Form1.resources
+C:\Users\aluno\Desktop\programas C#\somasuperiora100\somasuperiora100\obj\Debug\somasuperiora100.Properties.Resources.resources
+C:\Users\aluno\Desktop\programas C#\somasuperiora100\somasuperiora100\obj\Debug\somasuperiora100.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\programas C#\somasuperiora100\somasuperiora100\obj\Debug\somasuperiora100.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\programas C#\somasuperiora100\somasuperiora100\obj\Debug\somasuperiora100.exe
+C:\Users\aluno\Desktop\programas C#\somasuperiora100\somasuperiora100\obj\Debug\somasuperiora100.pdb
